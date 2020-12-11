@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
 
-LABEL SCM_URL https://github.com/wandersonca/docker-mpi
+LABEL SCM_URL https://github.com/wandersonca/docker-gcc
 
 ENV DEBIAN_FRONTEND=noninteractive 
 
